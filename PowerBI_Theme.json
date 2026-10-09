@@ -1,0 +1,16 @@
+{
+  "name": "Airline Analytics Portfolio",
+  "dataColors": [
+    "#2F75B5",
+    "#5B9BD5",
+    "#26A69A",
+    "#D4A017",
+    "#8E44AD",
+    "#E88CC7",
+    "#F4A261",
+    "#EF5350"
+  ],
+  "background": "#F4F6F8",
+  "foreground": "#17365D",
+  "tableAccent": "#2F75B5"
+}
